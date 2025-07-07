@@ -35,6 +35,8 @@ This project demonstrates a simple machine learning workflow using Google Colab,
 - **R² Score**: ~0.37  
   (Shows the model’s performance; this simple model can be improved with more features.)
 
+  ![Regression Plot](HousePricePrediction.png)
+
 ## 📎 How to Run
 
 1. Open the `notebook.ipynb` file in Google Colab.
