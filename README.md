@@ -45,6 +45,7 @@ This project demonstrates a simple machine learning workflow using Google Colab,
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+```
 
 ## ✨ Future Improvements
 
